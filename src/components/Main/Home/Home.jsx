@@ -1,16 +1,16 @@
-import React, { useState } from 'react'
+// import React, { useState } from 'react'
 import './Home.css'
 import img1 from '../../../image/lesion_brazo.jpg'
 import img2 from '../../../image/dolor_espalda.png'
 import img3 from '../../../image/dolor_barriga.jpg'
 import img4 from '../../../image/bebe.png'
 import img5 from '../../../image/madres_gestando.png'
-import { Facebook } from 'react-bootstrap-icons';
+// import { Facebook } from 'react-bootstrap-icons';
 import TitleHome from './TitleHome'
 
 const Home = () => {
 
-  const [modalPubli, setModalPubli] = useState(true)
+  // const [modalPubli, setModalPubli] = useState(true)
   
   return (
     <div className='container__home'>
